@@ -1,0 +1,14 @@
+{
+  "benchmark": "Receita líquida",
+  "rate": 0.005,
+  "global_R$_mil": 217641.875,
+  "execution_rate": 0.75,
+  "execution_R$_mil": 163231.40625,
+  "trivial_rate": 0.05,
+  "clearly_trivial_R$_mil": 10882.09375,
+  "alternative_benchmarks_R$_mil": {
+    "0.5% do ativo total": 443210.61,
+    "5% do lucro antes de IR/CS": 12705.7,
+    "1% do patrimônio líquido": 74110.01
+  }
+}

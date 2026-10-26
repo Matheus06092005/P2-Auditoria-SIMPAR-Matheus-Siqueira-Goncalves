@@ -1,0 +1,3 @@
+# Imagens, gráficos e condição de uso
+
+O pacote não incorpora fotografias, logotipos ou imagens de terceiros. `fluxo_auditoria.png` foi renderizado do fonte editável `fluxo_auditoria.mmd` por `manus-render-diagram`; é um diagrama original de processo proposto. Os quatro gráficos de análise foram gerados por `codigo/04_graficos.py` a partir das rubricas publicadas ou da base sintética, conforme legendas e arquivos de dados. Os gráficos sintéticos são claramente rotulados como artificiais. A fonte pública das cifras financeiras é registrada em `fontes/EVIDENCIAS_EXTERNAS.md` e `matrizes/registro_fontes.csv`. Não há restrição de licença de fotografia externa aplicável; documentos e cifras citados continuam sujeitos aos direitos e termos de suas fontes.

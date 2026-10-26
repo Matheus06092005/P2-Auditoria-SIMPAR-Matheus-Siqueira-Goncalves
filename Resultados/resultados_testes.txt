@@ -1,0 +1,20 @@
+RESULTADOS DOS TESTES — BASE SINTÉTICA
+População artificial; nenhum registro real da SIMPAR.
+Data de referência para teste de disponibilidade: 31/12/2025.
+
+linhas: detectado=500000; esperado=500000; OK
+linhas_marcadas: detectado=12; esperado=12; OK
+ids_distintos: detectado=499999; esperado=499999; OK
+custo_bruto_positivo: detectado=500000; esperado=500000; OK
+
+ANOMALIAS — contagem inserida versus detectada:
+depreciacao_acumulada_maior_que_custo: inserida=3; detectada=3; OK
+vida_util_zero: inserida=2; detectada=2; OK
+ativo_baixado_com_valor_liquido_positivo: inserida=2; detectada=2; OK
+data_disponivel_futura: inserida=1; detectada=1; OK
+localizacao_ausente: inserida=1; detectada=1; OK
+depreciacao_negativa: inserida=1; detectada=1; OK
+identificador_duplicado: inserida=1; detectada=1; OK
+valor_residual_maior_que_custo: inserida=1; detectada=1; OK
+
+Interpretação: cada alerta corresponde a regra artificial deliberadamente inserida. Não é achado da SIMPAR, projeção de erro ou evidência de auditoria.
