@@ -68,16 +68,3 @@ As demonstrações da cópia consultada estão em R$ mil. Em 2025: ativo total 8
 Materialidade preliminar selecionada: 0,5% da receita consolidada = R$ 217.641,875 mil; execução 75% = R$ 163.231,406 mil; trivial 5% = R$ 10.882,094 mil. São julgamentos didáticos; o dossiê inclui alternativas e não os trata como percentuais normativos obrigatórios.
 
 O resumo do relatório do auditor reproduzido na cópia consultada declara opinião “sem modificação” (PDF p. 4); o relatório completo não foi obtido e não foi avaliado. A DRA consolidada informa resultado abrangente de R$ 1.650.658 mil (2025) e -R$ 265.048 mil (2024). A cópia apresenta diferença aparente de R$ 14 mil entre saldo comparativo do PL no balanço e na DMPL; confirmar na DFP original.
-
-## Pendências relevantes para revisão final
-
-1. Baixar/arquivar o PDF RAD original da DFP 2025 e conferi-lo contra a cópia reproduzida, com paginação e notas integrais.
-2. Obter o relatório completo do auditor, conferir o resumo publicado (“sem modificação”) e avaliar principais assuntos/ênfases. Obter e analisar as informações financeiras segmentadas e suas reconciliações na DFP integral.
-3. Concluir conferência item a item dos textos NBC TA oficiais, referências a itens e vigência; revisões 240(R2) e 570(R1) foram publicadas em 2026 e não foram aplicadas retroativamente ao período 2025.
-4. Obter roteiro visual do professor se o “item 5” referido no anexo for requerido; não foi localizado entre os arquivos disponibilizados.
-5. Se o objetivo for uma auditoria real, obter autorização e evidência interna: cadastro e razão, contratos, inventários, confirmações, fluxos, covenant, pareceres jurídicos e comunicação com auditores de componentes.
-6. Resolver a diferença aparente de R$ 14 mil no PL comparativo de 2024 entre balanço e DMPL na cópia reproduzida, conferindo o documento RAD original.
-
-## Como editar sem Adobe
-
-Abra o DOCX e o XLSX com LibreOffice Writer/Calc (gratuitos) ou Microsoft Word/Excel. O PDF pode ser visualizado com qualquer leitor; use LibreOffice para exportar revisões do DOCX para PDF. Não remova as ressalvas de natureza acadêmica, a distinção lucro continuado/lucro líquido total, a unidade R$ mil nem as legendas “sintético”.
