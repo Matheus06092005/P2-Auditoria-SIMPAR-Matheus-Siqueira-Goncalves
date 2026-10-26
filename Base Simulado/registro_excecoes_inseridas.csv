@@ -1,0 +1,13 @@
+linha_dados,tipo_anomalia_sintetica,nota
+101,depreciacao_acumulada_maior_que_custo,Inserida deliberadamente pelo gerador; dados artificiais.
+202,depreciacao_acumulada_maior_que_custo,Inserida deliberadamente pelo gerador; dados artificiais.
+303,depreciacao_acumulada_maior_que_custo,Inserida deliberadamente pelo gerador; dados artificiais.
+404,vida_util_zero,Inserida deliberadamente pelo gerador; dados artificiais.
+505,vida_util_zero,Inserida deliberadamente pelo gerador; dados artificiais.
+606,ativo_baixado_com_valor_liquido_positivo,Inserida deliberadamente pelo gerador; dados artificiais.
+707,ativo_baixado_com_valor_liquido_positivo,Inserida deliberadamente pelo gerador; dados artificiais.
+808,data_disponivel_futura,Inserida deliberadamente pelo gerador; dados artificiais.
+909,localizacao_ausente,Inserida deliberadamente pelo gerador; dados artificiais.
+1010,depreciacao_negativa,Inserida deliberadamente pelo gerador; dados artificiais.
+1111,identificador_duplicado,Inserida deliberadamente pelo gerador; dados artificiais.
+1212,valor_residual_maior_que_custo,Inserida deliberadamente pelo gerador; dados artificiais.
