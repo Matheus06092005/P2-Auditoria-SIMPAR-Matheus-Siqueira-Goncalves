@@ -1,0 +1,18 @@
+# Mapa de classes de risco, status e conclusões para os papéis individuais.
+STATUS = {
+ 'Público verificado':'Conferido em documento público arquivado/citado.',
+ 'Planejado':'Procedimento desenhado, ainda não executado.',
+ 'Simulado':'Executado exclusivamente em arquivo artificial gerado por este pacote.',
+ 'Pendente':'Depende de documento/registro/contato não obtido.'
+}
+LIMITATIONS = [
+('L01','CVM RAD','Metadados da DFP 2025 e 2024 consultados; tabelas e PDF integral do RAD não foram recuperados pela interface neste ambiente.','Pendente','Confirmar/arquivar o PDF original da CVM e os localizadores de notas antes da submissão.'),
+('L02','Cópia financeira','Os demonstrativos numéricos detalhados foram lidos em cópia reproduzida em publicação jornalística; não é o arquivo extraído diretamente do RAD.','Pendente','Confrontar cifra, página e nota com o RAD oficial.'),
+('L03','Dados internos','Sem razão contábil, cadastro patrimonial, contratos, controles, conciliações, confirmações ou atas internas.','Pendente','Executar testes substantivos e de controles com a entidade, se autorizados.'),
+('L04','Imagem de roteiro','A imagem do item 5 mencionado na instrução original não constava entre anexos consultados.','Pendente','Comparar versão final ao roteiro visual original, se disponível.'),
+('L05','Base patrimonial sintética','CSV integralmente artificial; sem calibração, sem cadastro real e sem possibilidade de extrapolar exceções.','Simulado','Não projetar achados; selecionar amostra da população verdadeira em trabalho real.'),
+('L06','Relatório do auditor','O resumo reproduzido no PDF p. 4 informa opinião sem modificação e assinatura PwC; o relatório completo e seus principais assuntos/ênfases não foram obtidos.','Pendente','Obter o relatório integral referido na publicação e conferir contra DFP/RAD.'),
+('L07','Notas de imobilizado','Nota 2.12 foi localizada como política; nota do quadro de movimentação não confirmada na cópia extraída.','Pendente','Conferir nota e páginas da movimentação na DFP original.'),
+('L08','Normas CFC','Status/metadados oficiais obtidos para normas principais e transições 2026; pesquisa integral item a item continua em andamento.','Pendente','Finalizar revisão de cada texto oficial e itens normativos antes da entrega acadêmica definitiva.'),
+('L09','DMPL comparativa 2024','Cópia publicada traz PL total de R$ 5.724.991 mil no balanço e R$ 5.724.977 mil na DMPL (diferença de R$ 14 mil).','Pendente','Conferir o documento original RAD e, se persistir, rastrear reconciliação/reclassificação com administração.'),
+]
